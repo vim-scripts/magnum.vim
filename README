@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4877
+
+Magnum is a big integer library for Vim plugins written entirely in Vim script. Currently it provides just a small set of predicates, arithmetic, and conversion operations.
+
+Complete documentation is included and can be accessed via ":h magnum".
+
+Additional materials (usage examples, test suite) are available at the plugin home on GitHub.
+https://github.com/glts/vim-magnum
+
+This plugin depends on Google's Maktaba library.
+https://github.com/google/maktaba
+
