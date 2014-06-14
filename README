@@ -4,7 +4,7 @@ Magnum is a big integer library for Vim plugins written entirely in Vim script. 
 
 Complete documentation is included and can be accessed via ":h magnum".
 
-Additional materials (usage examples, test suite) are available at the plugin home on GitHub.
+Additional materials (usage examples, test suite, references) are available at the plugin home on GitHub.
 https://github.com/glts/vim-magnum
 
 This plugin depends on Google's Maktaba library.
